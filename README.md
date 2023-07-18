@@ -12,14 +12,6 @@ Formado em Matemática pelo IFMG - Campus formiga, no momento estou realizando p
 - 📖 **Matematica**\
 📆 2018 - 2022\
 📍 **IFMG - Instituto Federal de Minas Gerais- Campus Formiga** - Formiga, Brazil
-  
-### Linguagens e Conhecimentos em Geral
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-##
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -40,10 +32,15 @@ Especialidade: `Cálculo`, `Lógica Matematica` \
 <br/>
 <br/>
 
+### Linguagens e Conhecimentos em Geral
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/richard-archimedes-877650246/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-<br/>
-<br/>
+##
 <div align="left">
   <a href="https://github.com/tataifmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardArquimedes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
